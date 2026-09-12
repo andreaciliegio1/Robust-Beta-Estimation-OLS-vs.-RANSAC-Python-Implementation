@@ -96,16 +96,16 @@ The results highlight the importance of considering the characteristics of finan
 
 ## Project Structure
 
-```text
-robust-beta-ols-vs-ransac/
-│
-├── README.md
-├── Robust_Beta_OLS_vs_RANSAC.ipynb
-├── Paper_Robust_Beta.pdf
-└── figures/
-    ├── beta_comparison.png
-    ├── crisis_vs_calm.png
-    └── ...
+    robust-beta-ols-vs-ransac/
+    │
+    ├── README.md
+    ├── Robust_Beta_OLS_vs_RANSAC.ipynb
+    ├── Paper_Robust_Beta.pdf
+    └── figures/
+        ├── beta_comparison.png
+        ├── crisis_vs_calm.png
+        └── ...
+
 ## Reproducibility
 
 The complete Python implementation is provided in the Jupyter Notebook.
